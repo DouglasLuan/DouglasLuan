@@ -10,12 +10,13 @@
 
 ### 🚀 Sobre mim
 
+- 🤖 Aluno DevClub
 - 🌱 Estou aprendendo desenvolvimento do zero, focado no front-end
 - 📚 Estudo todos os dias para me tornar um desenvolvedor completo
 - 🎨 Gosto de criar interfaces simples, bonitas e funcionais
 - 💡 Sempre buscando novos desafios e soluções criativas
 - 🧠 Atuo no mercado de vendas e liderança, agora com foco total em Programação
-- 🤖 Aluno DevClub
+
 ---
 
 ### 🔧 Tecnologias em uso:
