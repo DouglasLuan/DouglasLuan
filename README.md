@@ -15,7 +15,7 @@
 - 🎨 Gosto de criar interfaces simples, bonitas e funcionais
 - 💡 Sempre buscando novos desafios e soluções criativas
 - 🧠 Atuo no mercado de vendas e liderança, agora com foco total em Programação
-
+- 🤖 Aluno DevClub
 ---
 
 ### 🔧 Tecnologias em uso:
