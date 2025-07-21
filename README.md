@@ -44,4 +44,4 @@
 
 ---
 
-Se curtir meus projetos, dá uma estrela ⭐ e Vamos codar juntos 🚀
+⭐ Da uma olha nos projetos e Vamos codar juntos 🚀
