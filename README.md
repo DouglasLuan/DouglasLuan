@@ -44,4 +44,4 @@
 
 ---
 
-⭐ Da uma olha nos projetos e Vamos codar juntos 🚀
+⭐ Da uma olha nos projetos 🚀
