@@ -38,7 +38,7 @@
 
 ### 📫 Como falar comigo
 
-- ✉️ Email: douglaspachecodlp@gmail.com  
+- ✉️ Email: douglas.ale.luan@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/douglas-luan-59753b345/](https://linkedin.com/in/douglas-pacheco-da-silva)  
 - 📱 Instagram: [@douglas.dlp](https://instagram.com/douglas.dlp)
 
